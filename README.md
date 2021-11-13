@@ -26,4 +26,4 @@ You must also add this code to the dependencies section of your build.gradle and
 
 	implementation fg.deobf("com.blackout:chaosadditions:1.16.5-0.3")
 	implementation fg.deobf("io.github:ChaosAwakens:1.16.5-0.9.0.3")
-	implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.16.5:3.0.46')
+	implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.16.5:3.0.52')
